@@ -8,8 +8,7 @@
     virutalenv env
     source ./env/bin/activate
 ```
-
-1. Install the requirements
+2. Install the requirements
 
 ```
 pip install -r requirements.txt
